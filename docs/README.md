@@ -8,7 +8,7 @@ actionLink: /guide/
 <img src='../src/assets/c_logo.png' alt="logo" class="logo">
 <h1>vue2.0UI组件</h1>
 <p class="action">
-<a href="/view/Input">快速上手 →</a>
+<a href="/casual-ui-web/view/Input">快速上手 →</a>
 </p>
 </div>
 

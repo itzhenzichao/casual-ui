@@ -63,10 +63,10 @@
 ---
 <script>
   import Vue from 'vue'
-  import Input from '../../src/packages/input'
+  import CaInput from '../../src/packages/input'
   import "../../src/lib/theme-chalk/icon.css";
   import "../../src/lib/theme-chalk/ca-icon.css";
-  Vue.use(Input)
+  Vue.use(CaInput)
   export default {
     data(){
         return {
